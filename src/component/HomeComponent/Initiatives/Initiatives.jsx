@@ -24,7 +24,7 @@ const Initiatives = () => {
           <div className="shadow-bottom grid grid-cols-2 border justify-items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 mt-4">
             <div className="grid-cols-1 border-r-2">
               <img
-                src="../../../../public/images/initiative/image5.jpg"
+                src="../../images/initiative/image5.jpg"
                 alt=""
               />
             </div>
@@ -35,7 +35,7 @@ const Initiatives = () => {
           <div className="shadow-bottom grid grid-cols-2 border justify-items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 mt-4">
             <div className="grid-cols-1 border-r-2">
               <img
-                src="../../../../public/images/initiative/image5.jpg"
+                src="../../images/initiative/image5.jpg"
                 alt=""
               />
             </div>
@@ -63,7 +63,7 @@ const Initiatives = () => {
           <div className="shadow-bottom grid grid-cols-2 border justify-items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 mt-4">
             <div className="grid-cols-1 border-r-2">
               <img
-                src="../../../../public/images/initiative/image2.jpg"
+                src="../../images/initiative/image2.jpg"
                 alt=""
               />
             </div>
@@ -78,7 +78,7 @@ const Initiatives = () => {
           <div className="shadow-bottom grid grid-cols-2 border justify-items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 mt-4">
             <div className="grid-cols-1 border-r-2">
               <img
-                src="/public/images/initiative/image1.png"
+                src="../../images/initiative/image1.png"
                 alt=""
               />
             </div>
@@ -93,7 +93,7 @@ const Initiatives = () => {
           <div className="shadow-bottom grid grid-cols-2 border justify-items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 mt-4">
             <div className="grid-cols-1 border-r-2">
               <img
-                src="/public/images/initiative/image.png"
+                src="../../images/initiative/image.png"
                 alt=""
               />
             </div>
@@ -105,7 +105,7 @@ const Initiatives = () => {
           <div></div>
         </div>
       </div>
-       <img className="absolute hide  mt-96 z-10" src="/public/images/logo/logot.png" alt="" />
+       <img className="absolute hide  mt-96 z-10" src="../../images/logo/logot.png" alt="" />
     </div>
   );
 };

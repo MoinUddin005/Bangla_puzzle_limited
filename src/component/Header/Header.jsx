@@ -53,7 +53,7 @@ const Header = () => {
           <Link className="btn btn-ghost normal-case text-xl" to="/">
             <img
               className="h-14"
-              src="/public/images/logo/logot.png"
+              src="../../images/logo/logot.png"
               alt=""
             />
             <h1 className="text-white font-bold">

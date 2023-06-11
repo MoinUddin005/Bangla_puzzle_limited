@@ -21,7 +21,7 @@ const Mediaconverages = () => {
           <SwiperSlide>
             <div className=" border p-2 grid justify-items-center">
               <div className="h-72 border">
-                <img className="border" src="/public/images/news/image1.jpg" alt="" />
+                <img className="border" src="../../images/news/image1.jpg" alt="" />
               </div>
               <p className="pt-5">Jan 15 2023</p>
               <p className="pt-3"><b>Shishu Academy new Director General Anjir Liton</b></p>
@@ -37,7 +37,7 @@ const Mediaconverages = () => {
           <SwiperSlide>
           <div className=" border p-2 grid justify-items-center">
               <div className="h-72 border">
-                <img className="border" src="/public/images/news/image2.jpg" alt="" />
+                <img className="border" src="/../../images/news/image2.jpg" alt="" />
               </div>
               <p className="pt-5">Jan 15 2023</p>
               <p className="pt-3"><b>Shishu Academy new Director General Anjir Liton</b></p>
@@ -53,7 +53,7 @@ const Mediaconverages = () => {
           <SwiperSlide>
           <div className=" border p-2 grid justify-items-center">
               <div className="h-72 border">
-                <img className="border" src="/public/images/news/image3.jpg" alt="" />
+                <img className="border" src="../../images/news/image3.jpg" alt="" />
               </div>
               <p className="pt-5">Jan 15 2023</p>
               <p className="pt-3"><b>Shishu Academy new Director General Anjir Liton</b></p>
@@ -69,7 +69,7 @@ const Mediaconverages = () => {
           <SwiperSlide>
           <div className=" border p-2 grid justify-items-center">
               <div className="h-72 border">
-                <img className="border" src="/public/images/news/image4.webp" alt="" />
+                <img className="border" src="../../images/news/image4.webp" alt="" />
               </div>
               <p className="pt-5">Jan 15 2023</p>
               <p className="pt-3"><b>Shishu Academy new Director General Anjir Liton</b></p>

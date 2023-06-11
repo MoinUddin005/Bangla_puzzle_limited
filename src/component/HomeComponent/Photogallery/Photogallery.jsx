@@ -14,14 +14,14 @@ const Photogallery = () => {
           <div className="relative overflow-hidden">
             <img
               className="w-full h-72 transition-transform hover:scale-110"
-              src="/public/images/gallery/image4.jpg"
+              src="../../images/gallery/image4.jpg"
               alt=""
             />
           </div>
           <div className="relative overflow-hidden">
             <img
               className="w-full h-72 transition-transform hover:scale-110"
-              src="/public/images/gallery/image9.jpg"
+              src="../../images/gallery/image9.jpg"
               alt=""
             />
           </div>
@@ -29,7 +29,7 @@ const Photogallery = () => {
           <div className="relative overflow-hidden">
             <img
               className="w-full h-72 transition-transform hover:scale-110"
-              src="/public/images/gallery/image7.jpg"
+              src="../../images/gallery/image7.jpg"
               alt=""
             />
           </div>
@@ -38,21 +38,21 @@ const Photogallery = () => {
         <div className="relative overflow-hidden">
             <img
               className="w-full h-72 transition-transform hover:scale-110"
-              src="/public/images/gallery/image10.jpg"
+              src="../../images/gallery/image10.jpg"
               alt=""
             />
           </div>
           <div className="relative overflow-hidden">
             <img
               className="w-full h-72 transition-transform hover:scale-110"
-              src="/public/images/gallery/image5.jpg"
+              src="../../images/gallery/image5.jpg"
               alt=""
             />
           </div>
           <div className="relative overflow-hidden">
             <img
               className="w-full h-72 transition-transform hover:scale-110"
-              src="/public/images/gallery/image5.jpg"
+              src="../../images/gallery/image5.jpg"
               alt=""
             />
           </div>

@@ -35,7 +35,7 @@ const Shishuacademy = () => {
         </button>
       </div>
       <div className="grid-cols-1 lg:pt-52">
-        <img className="h-48" src="/public/images/home/image2.jpg" alt="" />
+        <img className="h-48" src="../../images/home/image2.jpg" alt="" />
       </div>
     </div>
   );

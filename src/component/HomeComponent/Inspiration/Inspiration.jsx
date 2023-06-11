@@ -20,7 +20,7 @@ const Inspiration = () => {
       </div>
       <div className="grid-cols-1 justify-self-start">
         <img
-          src="/public/images/achievement/achievement1.jpg"
+          src="../../images/achievement/achievement1.jpg"
           alt=""
         />
       </div>

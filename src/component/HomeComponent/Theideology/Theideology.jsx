@@ -9,7 +9,7 @@ const Theideology = () => {
       <div className="grid-cols-1 justify-self-end">
         <img
           className="h-64"
-          src="/public/images/publication/row-image-Mujib100.png"
+          src="../../images/publication/row-image-Mujib100.png"
           alt=""
         />
       </div>

@@ -5,7 +5,7 @@ const Fixedbg = () => {
   return (
     <div
     className="bg-fixed  py-60 bg-no-repeat bg-cover relative"
-    style={{backgroundImage: `url('../../../../public/images/home/image3.jpg')`}}
+    style={{backgroundImage: `url('../../images/home/image3.jpg')`}}
   >
  
   </div>
